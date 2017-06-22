@@ -86,6 +86,34 @@ main .wrapper {
 	padding-top: 180px;
 }
 
+.box6text h3 {
+
+	font-size: 15px;
+	color: black;
+	position:absolute;
+	padding-left: 15px;
+	padding-top: 5px;
+}
+
+.box7text h3 {
+
+	font-size: 15px;
+	color: black;
+	position:absolute;
+	padding-left: 15px;
+	padding-top: 5px;
+}
+
+.box8text h3 {
+
+	font-size: 15px;
+	color: black;
+	position:absolute;
+	padding-left: 15px;
+	padding-top: 5px;
+}
+
+
 p {
 	font-size: 15px;
 	color: lightblue;
