@@ -112,7 +112,7 @@ img {
 	grid-column-end: 3;
 	grid-row-start: 5;
 	grid-row-end: 8;
-	background-color: teal;
+	background-color: #dce2ed;
 }
 
 .four {
@@ -120,7 +120,7 @@ img {
 	grid-column-end: 4;
 	grid-row-start: 1;
 	grid-row-end: 3;
-	background-color: gold;
+	background-color: #dce2ed;
 }
 
 .five {
@@ -128,7 +128,7 @@ img {
 	grid-column-end: 4;
 	grid-row-start: 3;
 	grid-row-end: 5;
-	background-color: black;
+	background-color: #dce2ed;
 }
 
 .six {
@@ -136,7 +136,7 @@ img {
 	grid-column-end: 4;
 	grid-row-start: 5;
 	grid-row-end: 6;
-	background-color: orange;
+	background-color: #dce2ed;
 }
 
 .seven {
@@ -144,7 +144,7 @@ img {
 	grid-column-end: 4;
 	grid-row-start: 6;
 	grid-row-end: 7;
-	background-color: red;
+	background-color: #dce2ed;
 }
 
 .eight {
@@ -152,7 +152,7 @@ img {
 	grid-column-end: 4;
 	grid-row-start: 7;
 	grid-row-end: 8;
-	background-color: purple;
+	background-color: #dce2ed;
 }
 
 .nine {
@@ -160,7 +160,7 @@ img {
 	grid-column-end: 5;
 	grid-row-start: 1;
 	grid-row-end: 5;
-	background-color: gray;
+	background-color: #dce2ed;
 }
 
 .ten {
@@ -168,7 +168,7 @@ img {
 	grid-column-end: 5;
 	grid-row-start: 5;
 	grid-row-end: 8;
-	background-color: green;
+	background-color: #dce2ed;
 }
 
 
