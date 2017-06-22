@@ -28,14 +28,14 @@ header {
 
 .wrapper {
 	margin: auto;
-	width: 1030px;
+	width: 1230px;
 }
 
 
 main .wrapper {
 	display: grid;
-	grid-template-columns: 300px 300px 200px 200px;
-	grid-template-rows: 100px 100px 100px 100px 80px 80px 80px;
+	grid-template-columns: 300px 300px 300px 300px;
+	grid-template-rows: 150px 150px 150px 150px 80px 80px 80px;
 	grid-column-gap: 10px;
 	grid-row-gap: 10px;
 }
@@ -68,6 +68,15 @@ main .wrapper {
 	padding-top: 130px;
 }
 
+.box4text h2 {
+
+	font-size: 20px;
+	color: black;
+	position:absolute;
+	padding-left: 15px;
+	padding-top: 180px;
+}
+
 p {
 	font-size: 15px;
 	color: lightblue;
@@ -81,22 +90,27 @@ a {
 	font-size: 10px;
 	color: #5d90e2;
 	position:relative;
-	top: 120px;
-	/*bottom:80px;*/
 	padding-left: 15px;
+	top: 180px;
 	text-decoration: none;
 }
 
 .box1 img {
 	
 	Width:610px;
-	height:270px;
+	height:auto;
 }
 
-.box2 img {
+.box2 img  {
 
 	width:300px;
 	height:130px;
+}
+
+.box4 img {
+
+	width:300px;
+	height: 180px;
 }
 
 iframe {
